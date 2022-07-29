@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "878277028572",
+    "project_id": "react-native-integration-f9e44",
+    "storage_bucket": "react-native-integration-f9e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878277028572:android:18b069146796bb0172a219",
+        "android_client_info": {
+          "package_name": "com.awesometsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878277028572-dpmqps6g5v9skj1jv928gsng775neh46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt7hwY8Yk2tGdHRwhhwnI8DoSpaMXorcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878277028572-dpmqps6g5v9skj1jv928gsng775neh46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878277028572-5e4s9g1kqeee2fnkqp6vua4bls452br4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Tiffinservicereactnative"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
